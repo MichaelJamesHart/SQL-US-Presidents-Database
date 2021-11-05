@@ -1,0 +1,46 @@
+PresidentName,PresidentNumber,PresTermStart,PresTermLength
+George Washington,1,1789,8
+John Adams,2,1797,4
+Thomas Jefferson,3,1801,8
+James Madison,4,1809,8
+James Monroe,5,1817,8
+John Quincy Adams,6,1825,4
+Andrew Jackson,7,1829,8
+Martin Van Buren,8,1837,4
+William Henry Harrison,9,1841,0
+John Tyler,10,1841,4
+James K. Polk,11,1845,4
+Zachary Taylor,12,1849,1
+Millard Fillmore,13,1850,3
+Franklin Pierce,14,1853,4
+James Buchanan,15,1857,4
+Abraham Lincoln,16,1861,4
+Andrew Johnson,17,1865,4
+Ulysses S. Grant,18,1869,8
+Rutherford B. Hayes,19,1877,4
+James A. Garfield,20,1881,0
+Chester A. Arthur,21,1881,4
+Grover Cleveland,22,1885,4
+Benjamin Harrison,23,1889,4
+Grover Cleveland,24,1893,4
+William McKinley,25,1897,4
+Theodore Roosevelt,26,1901,8
+William Howard Taft,27,1909,4
+Woodrow Wilson,28,1913,8
+Warren G. Harding,29,1921,2
+Calvin Coolidge,30,1923,6
+Herbert Hoover,31,1929,4
+Franklin D. Roosevelt,32,1933,8
+Harry S. Truman,33,1945,8
+Dwight D. Eisenhower,34,1953,8
+John F. Kennedy,35,1961,2
+Lyndon B. Johnson,36,1963,6
+Richard Nixon,37,1969,5
+Gerald Ford,38,1974,3
+Jimmy Carter,39,1977,4
+Ronald Reagan,40,1981,8
+George H. W. Bush,41,1989,4
+Bill Clinton,42,1993,8
+George W. Bush,43,2001,8
+Barack Obama,44,2009,8
+Donald Trump,45,2017,NULL

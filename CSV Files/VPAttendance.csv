@@ -1,0 +1,47 @@
+VPAttendanceID,UniversityName,VPName,VPWithdrewYesNo
+1,Harvard University,John Adams,No
+2,College of William & Mary,Thomas Jefferson,No
+3,Princeton University,Aaron Burr,No
+4,Harvard University,Elbridge Gerry,No
+5,Columbia University,Daniel D. Tompkins,No
+6,Yale University,John C. Calhoun,No
+7,Washington Seminary,Martin Van Buren,No
+8,Transylvania University,Richard Mentor Johnson,No
+9,College of William & Mary,John Tyler,No
+10,Princeton University,George M. Dallas,No
+11,University of North Carolina,William R. King,No
+12,Centre College,John C. Breckinridge,No
+13,Princeton University,John C. Breckinridge,No
+14,Transylvania University,John C. Breckinridge,No
+15,University of Vermont,William A. Wheeler,No
+16,Union College,Chester A. Arthur,No
+17,Hanover College,Thomas A. Hendricks,No
+18,Illinois Wesleyan University,Adlai Stevenson,No
+19,Centre College,Adlai Stevenson,No
+20,Rutgers University,Garret Hobart,No
+21,Harvard University,Theodore Roosevelt,No
+22,Ohio Wesleyan University,Charles W. Fairbanks,No
+23,Hamilton College,James S. Sherman,No
+24,Wabash College,Thomas R. Marshall,No
+25,Amherst College,Calvin Coolidge,No
+26,Marietta College,Charles G. Dawes,No
+27,Vanderbilt University,John Nance Garner,No
+28,Iowa State University,Henry A. Wallace,No
+29,Spalding's Commercial College,Harry S. Truman,Yes
+30,Emory University,Alben W. Barkley,No
+31,Whittier College,Richard Nixon,No
+32,Southwest Texas State Teachers College,Lyndon B. Johnson,No
+33,University of Minnesota,Hubert H. Humphrey,No
+34,Louisiana State University,Hubert H. Humphrey,No
+35,Johns Hopkins University,Spiro Agnew,No
+36,University of Michigan,Gerald Ford,No
+37,Darthmouth College,Nelson Rockefeller,No
+38,Macalester College,Walter Mondale,No
+39,University of Minnesota,Walter Mondale,No
+40,Yale University,George H. W. Bush,No
+41,DePauw University,Dan Quayle,No
+42,Harvard University,Al Gore,No
+43,University of Wyoming,Dick Cheney,No
+44,University of Delaware,Joe Biden,No
+45,Hanover College,Mike Pence,No
+46,Indiana University,Mike Pence,No

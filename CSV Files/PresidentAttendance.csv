@@ -1,0 +1,50 @@
+PresAttendanceID,UniversityName,PresidentName,PresWithdrewYesNo,PresTransferOutYesNo
+1,Allegheny College,William McKinley,Yes,No
+2,Amherst College,Calvin Coolidge,No,No
+3,Bowdoin College,Franklin Pierce,No,No
+4,College of William & Mary,Thomas Jefferson,No,No
+5,College of William & Mary,James Monroe,Yes,No
+6,College of William & Mary,John Tyler,No,No
+7,Columbia University,Barack Obama,No,No
+8,Davidson College,Woodrow Wilson ,No,Yes
+9,Dickinson College,James Buchanan,No,No
+10,Eureka College,Ronald Reagan,No,No
+11,Fordham University,Donald Trump ,No,Yes
+12,Georgetown University,Bill Clinton,No,No
+13,Georgia Institute of Technology,Jimmy Carter ,No,Yes
+14,Georgia Southwestern State University,Jimmy Carter ,No,Yes
+15,Hampden-Sydney College,William Henry Harrison,Yes,No
+16,Harvard University,John Adams,No,No
+17,Harvard University,John Quincy Adams,No,No
+18,Harvard University,Theodore Roosevelt,No,No
+19,Harvard University,Franklin D. Roosevelt,No,No
+20,Harvard University,John F. Kennedy,No,No
+21,Hiram College,James A. Garfield ,No,Yes
+22,Kenyon College,Rutherford B. Hayes,No,No
+23,London School of Economics,John F. Kennedy ,No,Yes
+24,Miami University,Benjamin Harrison,No,No
+25,Mount Union College,William McKinley,Yes,No
+26,Occidental College,Barack Obama ,No,Yes
+27,Ohio Central College,Warren G. Harding,No,No
+28,Princeton University,John F. Kennedy ,No,Yes
+29,Princeton University,James Madison,No,No
+30,Princeton University,Woodrow Wilson,No,No
+31,Texas State University,Lyndon B. Johnson,No,No
+32,Spalding's Commercial College ,Harry S. Truman,Yes,No
+33,Stanford University,Herbert Hoover,No,No
+34,Leiden University,John Quincy Adams ,No,Yes
+35,Union College,Chester A. Arthur,No,No
+36,University of Michigan,Gerald Ford,No,No
+37,University of North Carolina,James K. Polk,No,No
+38,University of Pennsylvania,Donald Trump,No,No
+39,United States Military Academy,Ulysses S. Grant,No,No
+40,United States Military Academy,Dwight D. Eisenhower,No,No
+41,United States Army Command and General Staff College,Dwight D. Eisenhower,No,No
+42,United States Army Industrial College,Dwight D. Eisenhower,No,No
+43,United States Army War College,Dwight D. Eisenhower,No,No
+44,United States Naval Academy,Jimmy Carter,No,No
+45,Whittier College,Richard Nixon,No,No
+46,Williams College,James A. Garfield,No,No
+47,Yale University,William Howard Taft,No,No
+48,Yale University,George H. W. Bush,No,No
+49,Yale University,George W. Bush,No,No
