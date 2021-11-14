@@ -11,5 +11,4 @@ This project provides:
 - A complete version of this project would have an online interactive database where users can look up specific information or build their own custom views.
 The database would be useful for journalists, historians, political scientists, and anyone interested in US history.
 
-Full Design Plan:
-![Design Plan](https://github.com/MichaelJamesHart/SQL-US-Presidents-Database/blob/main/Design%20Plan.pdf)
+![ER Diagram](https://github.com/MichaelJamesHart/SQL-US-Presidents-Database/blob/main/ER%20Diagram.png)
