@@ -1,6 +1,8 @@
 # SQL-US-Presidents-Database
  An SQL database of US presidents and vice presidents.
 
+See the file "Presentation.pptx" for a walkthrough of the project.
+
 I created a database of US Presidencies. My main tables are: US Presidents, Vice Presidents, Presidencies, Vice Presidencies, and Universities. I created three linking tables to handle many-to-many relationships. I thought this topic would be relatively straightforward, but the complexities of the US presidential system had to be accounted for in my databases.
 Initially I attempted to build a database of video game sales, but it was far too complex for me at this point. The topic of US presidents ended up being a better way for me to work through common mistakes, errors, and bugs. Also, the topic is probably familiar to everyone, so it should be easier to present my results.
 
